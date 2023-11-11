@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\Estudos\\.net\\1- Fundamentos .NET\\0-Modelo\\códigos.csproj": {}
+    "C:\\Users\\PC\\Documents\\Estudos\\.net\\Curso-Desenvolvedor-DotNet\\1- Fundamentos .NET\\1.6-EstruturasDeRepetição\\códigos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\Estudos\\.net\\1- Fundamentos .NET\\0-Modelo\\códigos.csproj": {
+    "C:\\Users\\PC\\Documents\\Estudos\\.net\\Curso-Desenvolvedor-DotNet\\1- Fundamentos .NET\\1.6-EstruturasDeRepetição\\códigos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\Estudos\\.net\\1- Fundamentos .NET\\0-Modelo\\códigos.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Estudos\\.net\\Curso-Desenvolvedor-DotNet\\1- Fundamentos .NET\\1.6-EstruturasDeRepetição\\códigos.csproj",
         "projectName": "códigos",
-        "projectPath": "C:\\Users\\PC\\Documents\\Estudos\\.net\\1- Fundamentos .NET\\0-Modelo\\códigos.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\Estudos\\.net\\Curso-Desenvolvedor-DotNet\\1- Fundamentos .NET\\1.6-EstruturasDeRepetição\\códigos.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\Estudos\\.net\\1- Fundamentos .NET\\0-Modelo\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Estudos\\.net\\Curso-Desenvolvedor-DotNet\\1- Fundamentos .NET\\1.6-EstruturasDeRepetição\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
