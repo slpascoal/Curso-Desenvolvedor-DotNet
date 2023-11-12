@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\bin\Debug\net7.0\Common.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\Common\obj\Debug\net7.0\ref\Common.dll

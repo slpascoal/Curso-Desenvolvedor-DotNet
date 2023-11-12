@@ -1,0 +1,46 @@
+C:\Users\PC\Documents\Estudos\.net\códigos\bin\Debug\net7.0\códigos.exe
+C:\Users\PC\Documents\Estudos\.net\códigos\bin\Debug\net7.0\códigos.deps.json
+C:\Users\PC\Documents\Estudos\.net\códigos\bin\Debug\net7.0\códigos.runtimeconfig.json
+C:\Users\PC\Documents\Estudos\.net\códigos\bin\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\códigos\bin\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.AssemblyInfo.cs
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\refint\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\códigos.genruntimeconfig.cache
+C:\Users\PC\Documents\Estudos\.net\códigos\obj\Debug\net7.0\ref\códigos.dll
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\bin\Debug\net7.0\códigos.exe
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\bin\Debug\net7.0\códigos.deps.json
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\bin\Debug\net7.0\códigos.runtimeconfig.json
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\bin\Debug\net7.0\códigos.dll
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\bin\Debug\net7.0\códigos.pdb
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.AssemblyInfoInputs.cache
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.AssemblyInfo.cs
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.csproj.CoreCompileInputs.cache
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.dll
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\refint\códigos.dll
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.pdb
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.genruntimeconfig.cache
+c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\ref\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\códigos.exe
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\códigos.deps.json
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\códigos.runtimeconfig.json
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\Common.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\bin\Debug\net7.0\Common.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.AssemblyInfo.cs
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.csproj.CopyComplete
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\refint\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\códigos.genruntimeconfig.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\1- Fundamentos .NET\1_7_OrganizacaoDeUmProgramaCS\códigos\obj\Debug\net7.0\ref\códigos.dll
