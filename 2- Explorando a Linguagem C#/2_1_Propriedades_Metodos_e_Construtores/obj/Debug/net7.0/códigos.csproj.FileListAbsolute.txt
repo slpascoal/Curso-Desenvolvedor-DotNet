@@ -26,3 +26,17 @@ c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.
 c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.pdb
 c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\códigos.genruntimeconfig.cache
 c:\Users\PC\Documents\Estudos\.net\1- Fundamentos .NET\0- Modelo\obj\Debug\net7.0\ref\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\bin\Debug\net7.0\códigos.exe
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\bin\Debug\net7.0\códigos.deps.json
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\bin\Debug\net7.0\códigos.runtimeconfig.json
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\bin\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\bin\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.AssemblyInfo.cs
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\refint\códigos.dll
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.pdb
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\códigos.genruntimeconfig.cache
+C:\Users\PC\Documents\Estudos\.net\Curso-Desenvolvedor-DotNet\2- Explorando a Linguagem C#\2_1_Propriedades_Metodos_e_Construtores\obj\Debug\net7.0\ref\códigos.dll
